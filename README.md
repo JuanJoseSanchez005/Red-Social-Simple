@@ -43,4 +43,4 @@ Incluye un sistema de inicio de sesión, publicaciones recientes con botones de 
 ---
 
 ## 👤 Autor
-- Juan Pérez  
+- Juan Sanchez  
